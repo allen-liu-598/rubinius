@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Elaborate Train and Predict mode docs arguments (#8137)
