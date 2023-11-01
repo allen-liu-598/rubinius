@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add simple-utilities.md Docs page (#8269)
